@@ -8,4 +8,4 @@ Key Highlights:
 
 - Window Functions : I've used window functions like Dense_rank and row_number. These functions help organize and rank data.
 
--Subqueries : I've used Subqueries with Where Clauses to efficiently filter and extract specific information.Additionally, I've employed Subqueries with From Clauses to handle various queries.
+- Subqueries : I've used Subqueries with Where Clauses to efficiently filter and extract specific information.Additionally, I've employed Subqueries with From Clauses to handle various queries.
